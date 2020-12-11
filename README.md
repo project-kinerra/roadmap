@@ -1,6 +1,6 @@
 # Kinerra Project Roadmap
 
-The following roadmap is a summary of [Kinerra](https://kinerra.net) project development, which has been organized into four stages: Stage 1, Stage 2, Liftoff, and Docking. Each stage is centered around a set of functionalities that will be delivered across multiple code releases.
+The following roadmap is a summary of [Kinerra](https://kinerra.net) project development, which has been organized into four stages: [Stage 1](./README.md#stage-1), [Stage 2](./README.md#stage-2), [Liftoff](./README.md#liftoff), and [Docking](./README.md#docking). Each stage is centered around a set of functionalities that will be delivered across multiple code releases.
 
 While the stages of [Kinerra](https://kinerra.net) will be delivered sequentially, the work for each stage happens in parallel, with research, prototyping, and development often in progress all at once across the different development streams.
 
