@@ -45,3 +45,9 @@ The Kinerra mobile app will be developed using React Native because of its capab
 - View global server statistics
 
 Release date: *June 2021*.
+
+## External Links
+
+- [Kin](https://kin.org)
+- [Kin Ads Network](https://www.kinads.org)
+- [Lineage II](https://en.wikipedia.org/wiki/Lineage_II)
