@@ -19,6 +19,8 @@ Release date: *February 2021*.
 
 **Open Beta Server Launch**
 
+The Open Beta stage marks the first iteration of the Kinerra Wallet. It will allow players to send, receive, and exchange KIN without ever leaving the game. As the first version of the Kinerra Wallet will run on Solana Testnet, players will also be able to fund their in-game wallets using a token faucet. The total number of users allowed to join the Open Beta is currently limited to **500**, as this will help us keep the hardware costs of running the server to a minimum. The users are not required to register in order to join the Open Beta. When the number of concurrent users (CCU) is >= 500, the login server will stop accepting new connections. The number of CCU will rise and fall irregularly at different times of the day, opening new slots for users to join. During Open Beta, players may experience latency issues depending on the distance between their physical location and the server. We had run a few tests on different server locations around the world and have decided that Newark USA, at roughly 83ms ping to most of Europe is a good choice. We're also looking at implementing proxy servers in Frankfurt, Tokyo, Singapore, and Toronto. We'll constantly monitor server performance and make adjustments as needed.
+
 Release date: *March 2021*.
 
 ## Liftoff
