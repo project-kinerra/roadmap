@@ -33,4 +33,15 @@ Release date: *April 2021*.
 
 **Android & iOS App Launch**
 
+The Kinerra mobile app will be developed using React Native because of its capability to cover Android as well as iOS devices simultaneously. By logging in and linking their game accounts, players will be able to perform different actions related to their account as well as check their progress on the go. Users will also have the option to earn KIN in the app, by watching 15-30s ads served by the [Kin Ads Network](https://www.kinads.org).
+
+**Features**
+
+- View in-game KIN balance
+- View character statistics
+- View upcoming castle and fortress siege dates
+- View the clans and alliances list 
+- View the latest server leaderboards
+- View global server statistics
+
 Release date: *June 2021*.
