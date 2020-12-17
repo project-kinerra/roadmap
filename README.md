@@ -29,6 +29,8 @@ Release date: *April 2021*.
 
 **Public Server Launch**
 
+All Systems Go! Kinerra's Public Server Launch is a much anticipated milestone on our roadmap but as with any rocket launch, Liftoff is just the beginning. As opposed to closed and open beta stages where users had to register or secure a slot to be able to play, no pre-registration or slot-securing is needed any more. Anybody can create an account, start playing, and earn Kin. Liftoff is also a time to solidify the many pathways for the Kinerra community to engage in the server improvement and decision making. Community members can participate in enhancing the server through the open Kinerra Improvement Proposals (KIPs), the primary mechanism by which the Kinerra community can submit, discuss, and approve changes relevant to the game server. We're also launching Kinerra Wallet v2.0, which is the second version of our in-game wallet running on Solana Mainnet. Players can **earn** Kin from monster hunting, completion of quests and dungeons, daily social events, castle and fortress sieging, selling or trading unwanted items with NPC's or other players, and many other various ways. Players will be able to **spend** their Kin in-game, on armors/weapons purchases and upgrades, consumables, pets, mounts and agathions, cosmetic & miscellaneous items, account services. Kinerra will enter a post-launch monitoring period to ensure the server is operating smoothly. During this time, we’ll be tracking the server performance closely and make adjustments as needed.
+
 Release date: *May 2021*.
 
 ## Docking
